@@ -1,2 +1,4 @@
-# v8-hello-world
-v8-hello-world
+# v8 嵌入 C++ 应用示例
+
+下载后使用 clion 打开后，正常编译即可，编译的参数可以看项目的 CMakeLists，编译后可正常运行 js 字符串脚本
+
